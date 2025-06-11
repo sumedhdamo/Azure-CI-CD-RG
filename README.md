@@ -2,9 +2,6 @@ Full CI/CD Setup Summary :
 
 1. GitHub Repository Setup
 •	Created GitHub repo: Azure-CI-CD-RG
-![image](https://github.com/user-attachments/assets/092b42ce-ddc3-44a6-8167-c8796e0e05dd)
-
-
 ________________________________________
 2. Local Git Environment Setup
 •	Installed Git (if not already)
